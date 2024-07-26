@@ -50,10 +50,10 @@ h2 {
 
 h1,
 h2 {
-  font-weight: normal;
   color: #291b1a;
   margin-bottom: 4px;
   line-height: 150%;
+  font-weight: normal;
 }
 
 ul{
