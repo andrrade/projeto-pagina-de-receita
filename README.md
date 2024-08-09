@@ -1,4 +1,4 @@
-# Projeto Página de Receita
+# Projeto - Página de Receita
 Acesse meu projeto em: https://andrrade.github.io/projeto-pagina-de-receita/
 <br><br>
 
