@@ -1,5 +1,5 @@
 # Projeto - Página de Receita
-Acesse meu projeto em: https://andrrade.github.io/projeto-pagina-de-receita/
+Acesse meu projeto em: https://projeto-pagina-de-receita-nine.vercel.app/
 <br><br>
 
 ![Página de Receita](https://github.com/user-attachments/assets/09147c62-e138-4588-98d6-1421494280e8)
