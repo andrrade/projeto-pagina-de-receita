@@ -14,7 +14,7 @@ Acesse meu projeto em: https://projeto-pagina-de-receita-nine.vercel.app/
 - Alterações dos pesos dos textos;
 - Favicons
 
-# 🚀 Tecnoogias Utilizadas
+# 🚀 Tecnologias Utilizadas
 
 - HTML
 - CSS
