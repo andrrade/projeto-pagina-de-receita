@@ -37,7 +37,6 @@ Esse projeto foi desenvolvido utilizando:
 
 - HTML
 - CSS
-- GitHub
 
 ---
 
