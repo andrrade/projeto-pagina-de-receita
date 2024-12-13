@@ -12,7 +12,6 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-conceitos-utilizados-no-projeto">Conceitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-link-do-projeto">Link do Projeto</a>
 </p>
 
@@ -27,7 +26,7 @@
 ##  📂 Projeto
 
 <p align="center">
-  <img alt="Projeto" src="https://github.com/user-attachments/assets/99a3f4b9-c59d-4ebe-ab7c-f381f9dcef2d">
+  <img alt="Projeto" src="https://github.com/user-attachments/assets/f7af1d15-4542-4888-9385-abb55ef70555">
 </p>
 
 ---
@@ -39,17 +38,6 @@ Esse projeto foi desenvolvido utilizando:
 - HTML
 - CSS
 - GitHub
-
----
-
-# 💻Conceitos utilizados no projeto 
-- Estrutura HTML;
-- Fontes;
-- Imagens;
-- Alterações das cores dos textos;
-- Estilizações com CSS;
-- Espaçamentos;
-- Alterações dos pesos dos textos;
 
 ---
 
